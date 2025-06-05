@@ -4,6 +4,8 @@ Web Automation Reimagined Automate your web workflows with pixel-perfect precisi
 
 Product Link : https://gigwey.vercel.app/
 
+Contributors : Aditya Abhiram , Gnanesh Balusa 
+
 ![screencapture-localhost-5173-2024-12-30-19_09_49](https://github.com/user-attachments/assets/fcdbcf75-afea-434b-8d11-0943e52bf520)
 
 ![screencapture-localhost-5173-Gigwey-2024-12-31-17_00_53](https://github.com/user-attachments/assets/b10b1cfb-ee24-4f36-b3e6-28501b771148)
